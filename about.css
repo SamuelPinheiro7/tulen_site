@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    }
+    
+    body{
+    overflow-x: hidden;
+    height: 10vh;
+    }
+    
+    .azul{
+    margin-left: 95px;
+    background-color: #2916e0;
+    height: 107vh;
+    width: 45%;
+    }
+    
+    .imagem{
+    border-radius: 50%;
+    margin-left: 20%;
+    margin-top: 5vh;
+    margin-bottom: 50px;
+    }
+    
+    .cont{
+    position: absolute;
+    margin-left: -30%;
+    margin-top: 9.1vh;
+    }
+    
+    
+    .menu{
+    height: 100vh;
+    width: 90px;
+    position: absolute;
+    position: fixed;
+    }
+    
+    .fmenu{
+    background-color: black;
+    height: 80px;
+    width: 95px;
+    fill: white;
+    }
+    
+    .fmenu1{
+    height: 3.8vh;
+    text-align: center;
+    padding-top: 20px;
+    }
+    
+    h2 {
+    font-size: 36px;
+    color: white;
+    margin-left: 160px;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .photograph {
+    font-size: 15px;
+    color: #636363;
+    line-height: 1.8;
+    color: white;
+    margin-left: 160px;
+    font-family: "Montserrat", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 13px;
+    margin-bottom: 20px;
+    }
+    
+    .Hello{
+    border: solid 2px;
+    width: 18%;
+    height: 3%;
+    text-align: center;
+    padding-top: 10px;
+    border-color: #6a5ce9;
+    border-radius: 50px;
+    color: white;
+    margin-left: 160px;
+    font-size: 16px;
+    font-weight: 500;
+    }
+    
+    a{
+    text-decoration: none;
+    color: white;
+    }
+    
+    .email{
+    margin-left: 100px;
+    margin-bottom: 30vh;
+    position: absolute;
+    display: inline-block;
+    font-size: 19px;
+    color: #fff;
+    text-decoration: underline;
+    }
+    
+    .during{
+    color: #252525;
+    font-size: 45px;
+    position: relative; left: 55%;bottom: 95vh;
+    font: 50px;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .linha{
+    padding-bottom: 8px;
+    border-bottom: 3px solid #2916e0;
+    margin-bottom: 20px;
+    width: 10.3%;
+    }
+    
+    .text1{
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 9px;
+    color: #636363;
+    margin-top: 0.5%;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .text2{
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 9px;
+    color: #636363;
+    margin-top: 1.5%;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .day1{
+    color: #252525;
+    font-size: 45px;
+    position: relative; left: 55%;bottom: 92vh;
+    font: 50px;
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    .lnh1{
+    padding-bottom: 8px;
+    border-bottom: 3px solid #2916e0;
+    margin-bottom: 20px;
+    width: 9.4%;
+    }
+    
+    .bola{
+    width: auto;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    }
+    
+    .imagem1{
+    height: 14.4vh;
+    }
+    
+    .img2{
+    height: 13.4vh;
+    }
+    
